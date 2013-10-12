@@ -39,7 +39,7 @@ Route::group(array('prefix' => 'my-expense'), function()
 });
 
 //myBalance
-Route::group(array('prefix' => 'my-expense'), function()
+Route::group(array('prefix' => 'my-balance'), function()
 {
     Route::get('/', function()
     {

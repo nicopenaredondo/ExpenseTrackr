@@ -1,6 +1,6 @@
 <?php
 
-class BalanceController extends \BaseController {
+class ReportController extends \BaseController {
 
 	/**
 	 * Display a listing of the resource.
